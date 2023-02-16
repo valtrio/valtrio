@@ -20,3 +20,5 @@ Skin Changer:
 Scanner:
 - When enabled There will be a skin notification when the aim lock skill hits the player.
 - Open - Close Menu
+
+https://user-images.githubusercontent.com/94861415/190626299-a8dd2087-b45e-46aa-b7a9-cf3a1f525166.mp4
