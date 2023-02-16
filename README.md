@@ -1,5 +1,5 @@
 # ⚙ How to Setup
-- Open VALTrio v2.3
+- Open VALTrio v2.4
 - It's time for fun / use it at your own risk
 # 🟢 Feature
 AimBot:
