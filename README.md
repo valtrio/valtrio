@@ -1,2 +1,3 @@
-# valtrio
-Valorant AIM, WH, ESP, Skin Changer
+# ⚙ How to Setup
+- Open 
+- It's time for fun / use it at your own risk
