@@ -15,8 +15,7 @@ Save & Load Config:
 - Can save the original value and can be downloaded back to use as well
 
 Skin Changer:
-- Added skins from SS.3 - present.
-
+- Added skins from E6: A2
 Scanner:
 - When enabled There will be a skin notification when the aim lock skill hits the player.
 - Open - Close Menu
